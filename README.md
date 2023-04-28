@@ -6,8 +6,9 @@ Partiendo de la base principal (FIGURAS). la clase rectangulo y circulo adquiere
 El "juego" fue desarrollado en lenguaje JAVASCRIPT con ayuda de p5js
 
 
+[UML](https://github.com/crisdaniel900/Juego/blob/main/eljoqui.jpg)
 
-[P5J] (https://editor.p5js.org/crisdaniel900/sketches/krzyZnenJ)
+[PJ5S](https://editor.p5js.org/crisdaniel900/sketches/krzyZnenJ)
 
 Soberanes Oregel Cristopher Daniel
 #C20211465
